@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 # Larissa Roque Carvalho
 
 ## Olá leitor ✌️
-Sou uma jovem de atualmente 17 anos me descobrindo nesse mundo da programação.
+Sou uma jovem de atualmente 18 anos me descobrindo nesse mundo da programação.
 
-No momento sou uma aluna do Instituto Federal do Amazonas prestes a me formar, e logo espero poder adentrar o mundo profissional como FullStack Developer 🖥️ Então me desejem sorte :)
+Sou Técnica em Informática e logo espero poder adentrar o mundo profissional como FullStack Developer 🖥️ Então me desejem sorte :)
 
 <br/> :tropical_fish: Aprendendo um pouco mais de desenvolvimento web e quebrando a cara com o Back End
 <br/> :hammer: Tenho conhecimentos medianos em linguagens C, Java e SQL (rumo ao python :snake:)

@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # Larissa Roque Carvalho
 
 ## Olá leitor ✌️
-Sou uma jovem de atualmente 18 anos me descobrindo nesse mundo da programação.
+Sou uma jovem de atualmente 19 anos me descobrindo nesse mundo da programação.
 
 Sou Técnica em Informática e logo espero poder adentrar o mundo profissional como FullStack Developer 🖥️ Então me desejem sorte :)
 
